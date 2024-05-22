@@ -3,9 +3,7 @@
 <!--
 **mjanakiram321/mjanakiram321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+##  I’m currently working on ...
      - Data Quality using Machine Learning within Risk Domain; 
      - Explore opportunities in driving efficiency using ML techniques for data transformation
      - APAC head of Data and MI for Controls Assurance function

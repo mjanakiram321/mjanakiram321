@@ -9,19 +9,19 @@
    Risk Analytics 🏠, Data Management and Chief control office domains. 📣 Before that, I contributed to the Impact Analytics team, developing products that facilitated data-driven decision-making in Banking domain. 
    Education : Oh, and I proudly hold double post graduation in Finance/IT from Narsee Monji University and in Business Analytics 📈 from UT Austin University 🎓.
 
-📧. I'm always open to new ideas and opportunities. Let's connect and explore exciting possibilities together! 🚀
+📧. I'm always open to new ideas and opportunities. Let's connect and explore exciting possibilities together! 
 
-##  I’m currently working on ... 
+🚀 I’m currently working on ... 
     Part of matrix setup; setting up Data Quality team using Machine Learning within Risk Domain;
     Explore opportunities in driving efficiency using ML techniques for data transformation
     APAC head of Data and MI for Controls Assurance function
 
-## 🌱 I’m currently learning ...
+🌱   I’m currently learning ...
       Machine learning algorithms
       Deep Learning and AI
       Risk Management practises followed within Operational risk areas
 
-- 📫 How to reach me: ...
+📫 How to reach me: ...
       @ janakirammusunuri1@gmail.com
       @ https://www.linkedin.com/in/janakiram-m-61889b10/
-- 😄 Pronouns: ... he or him
+😄 Pronouns: ... he or him

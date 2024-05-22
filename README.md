@@ -6,7 +6,7 @@
    
    Have 18+ years experience in Finance, Transformation, Data Management, Data Governance, Data Quality, Machine Learning & Data Visualisation.
    Tackling fascinating problems optimizing resourcing and cost. Previously, I spearheaded several projects as Transformation and business head at HSBC 🧑‍🔬 focusing on challenges in Finance 💰, 
-   Risk Analytics 🏠, Data Management and Chief control office domains. 📣 Before that, I contributed to the Impact Analytics team, developing products that facilitated data-driven decision-making leading Banks. 
+   Risk Analytics 🏠, Data Management and Chief control office domains. 📣 Before that, I contributed to the Impact Analytics team, developing products that facilitated data-driven decision-making in Banking domain. 
    Education : Oh, and I proudly hold double post graduation in Finance/IT from Narsee Monji University and in Business Analytics 📈 from UT Austin University 🎓.
 
 📧. I'm always open to new ideas and opportunities. Let's connect and explore exciting possibilities together! 🚀

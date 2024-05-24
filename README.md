@@ -5,9 +5,11 @@
    Vivid reader, Python trainer & takes responsibility towards society. Led several projects in conservation, education & CSR by working with WWF, World Bank and other organisations.
    
    Have 18+ years experience in Finance, Transformation, Data Management & Strategy, Data Governance, Data Quality, Machine Learning & Data Visualisation.
-   Tackling fascinating problems optimizing resourcing and cost. Previously, I spearheaded several projects as Transformation and business head at HSBC 🧑‍🔬 focusing on challenges in Finance 💰, 
+   Tackling fascinating problems optimizing resourcing and cost.
+   Previously, I spearheaded several projects as Transformation and Business head at HSBC 🧑‍🔬 focusing on challenges in Finance 💰, 
    Risk Analytics 🏠, Data Management and Chief control office domains. Data / Process Automation; MIS simplification, Standardization, and automation📣 Before that, I contributed to the Impact Analytics 
-   team, developing products that facilitated data-driven decision-making in Banking domain. 
+   team, developing products that facilitated data-driven decision-making in Banking domain managing processes, regulations, stakeholder management, Risk Management and performance KPIs designing and ownership.
+   
    
    Education : Oh, and I proudly hold double post graduation in Finance/IT from Narsee Monji University and in Business Analytics 📈 from UT Austin University 🎓.
 
@@ -17,6 +19,7 @@
     Part of matrix setup; setting up Data Quality team using Machine Learning within Risk Domain;
     Explore opportunities in driving efficiency using ML techniques for data transformation; 
     Experimenting with data visualization and predictive analytics
+    MI Reports, Extract/Transform/Load (ETL), Operating Models, Data Driven Insights, Analytical Skills, Offshoring, Reporting & Analysis, Data driven Decision Making.
     📉 Data Analysis: Leveraging data to identify and map emerging patterns or trends.
   
 🌱   I’m currently learning ...

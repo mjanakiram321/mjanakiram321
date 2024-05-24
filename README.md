@@ -1,4 +1,4 @@
-## Hi there, I am Ram in short
+## Hi there, I am Ram in short !
 👋 My name is Janakiram Musunuri, and am currently based out of Singapore.
    I'm a passionate 🥇, creative 🎨, and with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me. 
    Personally I am passionate for girl education in India and have so far sponsored ~100+ girls for their primary and higher education. 

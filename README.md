@@ -14,9 +14,10 @@
 
 🚀 I’m currently working on ... 
     Part of matrix setup; setting up Data Quality team using Machine Learning within Risk Domain;
-    Explore opportunities in driving efficiency using ML techniques for data transformation
-    APAC head of Data and MI for Controls Assurance function
-
+    Explore opportunities in driving efficiency using ML techniques for data transformation; 
+    Experimenting with data visualization and predictive analytics
+    📉 Data Analysis: Leveraging data to identify and map emerging patterns or trends.
+  
 🌱   I’m currently learning ...
       Machine learning algorithms
       Deep Learning and AI
@@ -25,4 +26,6 @@
 📫 How to reach me: ...
       @ janakirammusunuri1@gmail.com
       @ https://www.linkedin.com/in/janakiram-m-61889b10/
+      
 😄 Pronouns: ... he or him
+

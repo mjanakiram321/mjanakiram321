@@ -34,5 +34,6 @@
 😄 Pronouns: ... he or him
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Languages and Tools I'm building on:
+
 Python(Matplotlib NumPy Pandas Scikit-Learn), Alteryx, Tableau, Jupyter, Collibra DQIM, SQL, Advanced Excel. 
 
